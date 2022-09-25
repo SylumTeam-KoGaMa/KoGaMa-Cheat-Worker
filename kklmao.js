@@ -1,2 +1,1 @@
-aaa
-redfc4wrsfcwrf
+top.console.log('fuck');
